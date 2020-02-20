@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="jsontoxml">
+    <Basepaths>/jsontoxml</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1582115350430</CreatedAt>
+    <CreatedBy>jeetendra.jaiswal@impetus.co.in</CreatedBy>
+    <Description></Description>
+    <DisplayName>jsontoxml</DisplayName>
+    <LastModifiedAt>1582115553355</LastModifiedAt>
+    <LastModifiedBy>jeetendra.jaiswal@impetus.co.in</LastModifiedBy>
+    <ManifestVersion>SHA-512:ee9b8fefea34cd609737431eb433be474ee73a40196d99064331b3f6d609a54f4e0b76a2ce431955ddae07b9bcdd907db86472bd6da8c31194671855854c3ffb</ManifestVersion>
+    <Policies>
+        <Policy>JSON-to-XML-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
